@@ -8,3 +8,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliefe04&show_icons=true&theme=dark&locale=en&layout=compact" alt="aliefe04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliefe04&show_icons=true&theme=dark&locale=en" alt="aliefe04" /></p>
+
+## <h3 align="left">Spotify</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11164368566&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
