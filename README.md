@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliefe04&label=Profile%20views&color=0e75b6&style=plastic" alt="aliefe04" /> </p>
 
 
-(https://avatars.githubusercontent.com/u/62021709?v=4)
+![alt text]([http://url/to/img.png](https://avatars.githubusercontent.com/u/62021709?v=4))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
