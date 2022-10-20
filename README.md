@@ -9,4 +9,3 @@
 ## <h3 align="left">GitHub Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliefe04&show_icons=true&theme=dark&locale=en" alt="aliefe04" /></p>
-1
