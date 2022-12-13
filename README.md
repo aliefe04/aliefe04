@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)" alt="python" width="40" height="40"/> ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</a> </p>
 
 ## <h3 align="left">GitHub Stats</h3>
 
