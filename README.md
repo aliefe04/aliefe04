@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Efe Çakıcı</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliefe04&label=Profile%20views&color=0e75b6&style=plastic" alt="aliefe04" /> </p> <a href="www.linkedin.com/in/aliefecakici/">
+    
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="buymeacoffee.com/aliefe04">
+<img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
