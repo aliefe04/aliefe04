@@ -4,11 +4,12 @@
 
 
 
+<!---
 <p align="center">  
  <a href="https://www.buymeacoffee.com/aliefe04">
  <img src= "https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg">
-</p>
-
+ </p>
+-->
 
 
 
